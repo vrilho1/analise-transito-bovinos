@@ -36,11 +36,11 @@ Os dados foram extraídos de planilhas oficiais do sistema de trânsito animal d
 
 ## 📈 Resultados
 
-- Municípios com maior volume de saída de gado: `[...]`
-- Municípios com maior volume de entrada de gado: `[...]`
-- Finalidades predominantes: `[...]`
+- Municípios com maior volume de saída de gado: São João del Rei
+- Municípios com maior volume de entrada de gado: São João del Rei
+- Finalidades predominantes: Abate 
 
-(*Preencher com os dados que você obteve*)
+Foi observardo que a maior parte do trânsito ocorre internamente.
 
 ---
 
